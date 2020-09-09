@@ -81,12 +81,10 @@
 		</dependency>
 		
 		<dependency>
-    <groupId>org.jumpmind.symmetric.jdbc</groupId>
+    <groupId>org.postgresql</groupId>
     <artifactId>postgresql</artifactId>
-    <version>9.2-1002-jdbc4</version>
-    <scope>test</scope>
+    
 </dependency>
-		
 		
 		
 	</dependencies>
