@@ -15,6 +15,8 @@ import com.dhathri.demo.model.User;
 import com.dhathri.demo.services.ItemService;
 import com.dhathri.demo.services.UserService;
 
+//controller page
+
 @Controller
 public class ApplicationController {
 
